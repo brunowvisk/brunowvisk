@@ -6,7 +6,7 @@
   BIENVENUE À MA PAGE GITHUB!
   <br>
   <br>
-  I'm Brunowvisk 👋 
+  I'm Bruno 👋 
   <br>
   🚀 Brazilian developer 🚀 
   <br>
